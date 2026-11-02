@@ -1,0 +1,1 @@
+Réalisé dans le cadre du brief **« Cadrer un service numérique pour une mise en œuvre responsable »**, ce projet applique une démarche d'éco-conception au service réel iLovePDF via le starter miroir **heavy-ops**, dont l'ensemble des livrables (cadrage, slides, analyse EcoIndex et backlog) se trouve directement dans le dossier ```heavy-ops/brief```
